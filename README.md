@@ -34,17 +34,6 @@ modern Natural Language Processing (NLP) techniques and transformer-based models
 
 ---
 
-## 📁 Project Structure
-Sentiment Analysis/
-├── sentiment_analysis.ipynb
-├── README.md
-├── .gitignore
-└── dataset/ (ignored, not uploaded)
-
-yaml
-Copy code
-
----
 
 ## ▶️ How to Run
 1. Install the required libraries:
